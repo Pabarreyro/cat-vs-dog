@@ -8,7 +8,6 @@ img {
 }
 
 .player-column {
-  border: 1px solid black;
   border-radius: 5px;
   padding: 5px;
 }
@@ -19,4 +18,17 @@ img {
 
 .hide {
   display: none;
+}
+
+#cat-column {
+  border: 1px solid yellow;
+}
+
+#dog-column {
+  border: 1px solid red;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
 }
