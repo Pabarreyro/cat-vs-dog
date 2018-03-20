@@ -2,7 +2,12 @@ body {
   text-align: center;
 }
 
-.player {
+img {
+  width: 182px;
+  margin: 2px;
+}
+
+.player-column {
   border: 1px solid black;
   border-radius: 5px;
   padding: 5px;
